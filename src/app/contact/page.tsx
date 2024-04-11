@@ -48,7 +48,7 @@ export default function Songbook() {
         <div className='flex justify-center mt-20 h-full flex-1'>
             <div>
         <form className='ring-yellow-500' onSubmit={handleSubmit}>
-            <h1 className='text-3xl font-bold mb-4'>Kontakt</h1>
+            <h1 className='text-3xl font-bold mb-4 dark:text-white'>Kontakt</h1>
 
             <div className='flex flex-col justify-center items-center gap-2'>
                 <div className='grid grid-cols-2 gap-2'>

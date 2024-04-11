@@ -155,7 +155,7 @@ export default function Songbook() {
                     <div className='flex md:gap-4 gap-2 flex-wrap justify-center'>
                         {Songs.map((song) => {
                             return (
-                                <a className='py-2 px-4 md:px-8 dark:bg-neutral-900 text-sm md:text-lg bg-white/50 rounded-full border-yellow-500/10 border-2 ' href={`#${song.name}`} key={song.name}>{song.name}</a>
+                                <a className='py-2 px-4 md:px-8 dark:bg-neutral-900 dark:text-white text-sm md:text-lg bg-white/50 rounded-full border-yellow-500/10 border-2 ' href={`#${song.name}`} key={song.name}>{song.name}</a>
                             )
                         })}
                     </div>

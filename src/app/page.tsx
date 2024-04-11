@@ -17,7 +17,7 @@ export default async function Home() {
   return (
     <div className="grid grid-cols-1  lg:h-full lg:min-h-[30rem] lg:flex-1">
    
-      <div className='w-full lg:min-h-full  justify-center flex flex-col items-center h-full'>
+      <div className='w-full lg:min-h-full  justify-center flex flex-col items-center h-full dark:text-white'>
         <Image loading='lazy' quality={100} src="/logo_512.png" className='lg:w-1/3 w-1/2 mb-4 aspect-square max-h-64 max-w-64' width={512} height={512} alt={''} />
         <div className='items-center flex flex-col'>
           <h1 className="font-medium flex items-center text-5xl ">

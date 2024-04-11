@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function New() {
   return (
-    <main className="max-w-2xl mx-auto mt-10 w-full prose">
+    <main className="max-w-2xl mx-auto mt-10 w-full prose dark:prose-invert ">
       <h1>Ny Student</h1>
       <div>
         <p>

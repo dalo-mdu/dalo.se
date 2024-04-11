@@ -29,7 +29,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={`${inter.className} dark:bg-black`}>
         <Header />
       <main className=" p-10 md:p-24 md:pt-32 pt-32  min-h-screen h-full flex flex-col">
 

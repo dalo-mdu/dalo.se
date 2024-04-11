@@ -8,7 +8,7 @@ export default function Footer(
 ) {
 
     return (
-        <footer className="flex justify-center border-t dark:border-t-white border-t-black">
+        <footer className="flex justify-center border-t dark:border-t-white border-t-black dark:text-white">
             <div className="max-w-7xl w-full px-24 md:px-10 ">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 items-start">
                     {
