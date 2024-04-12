@@ -21,7 +21,7 @@ export default function Songbook() {
         },
         {
             name: "Rida get",
-            text: "DALOs “föreningslåt”Riida Rida Get\n\nEn glad analfabet\n\nLeeva Leva Liivet\n\nUte på Savannen!"
+            text: "DALOs “föreningslåt”\n\nRiida Rida Get\n\nEn glad analfabet\n\nLeeva Leva Liivet\n\nUte på Savannen!"
         },
         {
             name: "Bolaget",
@@ -41,7 +41,7 @@ export default function Songbook() {
         {
             name: "JASen",
             melody: "Melodi: Måsen",
-            text: "Sjungs som svar när M.A.C.H. har sjungit JAS-hymnenOch Jasen styrde mot Västerbron\n\nmen styrsystemet var trasigt.\n\nPiloten ut sköt sig med kanon\n\nför planet vingla så knasigt.\n\nHan ville uppåt han ville mer,\n\nmen planet svarte han ville ner.\n\nMot alla jon,\n\npå Västerbron."
+            text: "_Sjungs som svar när M.A.C.H. har sjungit JAS-hymnen_\n\nOch Jasen styrde mot Västerbron\n\nmen styrsystemet var trasigt.\n\nPiloten ut sköt sig med kanon\n\nför planet vingla så knasigt.\n\nHan ville uppåt han ville mer,\n\nmen planet svarte han ville ner.\n\nMot alla jon,\n\npå Västerbron."
         },
         {
             name: "Strejk på Pripps",
@@ -72,7 +72,7 @@ export default function Songbook() {
         },
         {
             name: "Blå förgätimej",
-            text: "Sjungs efter sittning för att tacka personalHur gärna ville jag ej vara\n\nen liten blå förgätmigej,\n\nen liten blå förgätmigej.\n\nDå skulle jag för dig förklara,\n\nhur innerligt jag älskar dej,\n\noch dej,\n\noch dej,\n\n…"
+            text: "_Sjungs efter sittning för att tacka personal_\n\nHur gärna ville jag ej vara\n\nen liten blå förgätmigej,\n\nen liten blå förgätmigej.\n\nDå skulle jag för dig förklara,\n\nhur innerligt jag älskar dej,\n\noch dej,\n\noch dej,\n\n…"
         },
         {
             name: "Brännvin filibombombom",
