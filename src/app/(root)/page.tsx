@@ -1,6 +1,4 @@
 
-import { IEventAttributes, IEventInfo } from '@/types/types';
-import Head from 'next/head';
 import Image from 'next/image'
 import Link from 'next/link'
 

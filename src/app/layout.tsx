@@ -29,61 +29,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.className} dark:bg-black`}>
-        <Header />
-      <main className=" p-10 md:p-24 md:pt-32 pt-32  min-h-screen h-full flex flex-col">
-
+      <body className={`${inter.className} dark:bg-black `}>
         {children}
-        </main>
-        <Footer items={
-          
-          [
-            {
-              title: "Dalo",
-              items: [
-                {
-                  title: "Om oss",
-                  link: "/about",
-                },
-                {
-                  title: "Ny Student",
-                  link: "/new",
-                },
-                {
-                  title: "Sånger",
-                  link: "/songbook",
-                },
-
-                {
-                  title: "Kontakt",
-                  link: "/contact",
-                },
-              ],
-            },
-          {
-            title: "Social",
-            items: [
-              {
-                title: "Facebook",
-                link: "https://www.facebook.com/",
-              },
-              {
-                title: "Instagram",
-                link: "https://www.instagram.com/",
-              },
-              {
-                title: "Discord",
-                link: "https://discord.gg/",
-              },
-              {
-                title: "GitHub",
-                link: ""
-              }
-              
-
-            ],
-          }
-        ]}/>
         </body>
       
     </html>
