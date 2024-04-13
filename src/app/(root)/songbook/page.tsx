@@ -39,7 +39,7 @@ export default function Songbook() {
         {
             name: "JASen",
             melody: "Melodi: Måsen",
-            text: "_Sjungs som svar när M.A.C.H. har sjungit JAS-hymnen_\n\nOch Jasen styrde mot Västerbron\n\nmen styrsystemet var trasigt.\n\nPiloten ut sköt sig med kanon\n\nför planet vingla så knasigt.\n\nHan ville uppåt han ville mer,\n\nmen planet svarte han ville ner.\n\nMot alla jon,\n\npå Västerbron."
+            text: "`Sjungs som svar när M.A.C.H. har sjungit JAS-hymnen`\n\nOch Jasen styrde mot Västerbron\n\nmen styrsystemet var trasigt.\n\nPiloten ut sköt sig med kanon\n\nför planet vingla så knasigt.\n\nHan ville uppåt han ville mer,\n\nmen planet svarte han ville ner.\n\nMot alla jon,\n\npå Västerbron."
         },
         {
             name: "Strejk på Pripps",
@@ -57,7 +57,7 @@ export default function Songbook() {
         },
         {
             name: "Tacksång för spex",
-            text: "Denna sjunger man efter att någon har genomfört ett spex på<br>\n\nt.ex. en sittning. Ersätt [XX] med rätt pronomen eller namnAlla  Det där det gjorde [XX] fan så bra (hej!)\n\n      En skål uti botten för [XX] nu vi tar!\n\n      Hugg i och dra, hej!\n\n      Hugg i och dra, hej!\n\n      En skål uti botten för [XX] nu vi tar!\n\n      Och alla så dricker vi nu [XX] till!\n\n[XX]  Och [XX] säger inte nej därtill!\n\nAlla  För det var i vår ungdoms fagraste vår,\n\nvi drack varandra till och vi sade gutååår!"
+            text: "Denna sjunger man efter att någon har genomfört ett spex på<br>\n\nt.ex. en sittning. Ersätt [XX] med rätt pronomen eller namnAlla  Det där det gjorde [XX] fan så bra (hej!)\n\n En skål uti botten för [XX] nu vi tar!\n\nHugg i och dra, hej!\n\nHugg i och dra, hej!\n\n  En skål uti botten för [XX] nu vi tar!\n\nOch alla så dricker vi nu [XX] till!\n\n[XX]  Och [XX] säger inte nej därtill!\n\nAlla  För det var i vår ungdoms fagraste vår,\n\nvi drack varandra till och vi sade gutååår!"
         },
         {
             name: "Kalmarevisan",
@@ -70,7 +70,7 @@ export default function Songbook() {
         },
         {
             name: "Blå förgätimej",
-            text: "_Sjungs efter sittning för att tacka personal_\n\nHur gärna ville jag ej vara\n\nen liten blå förgätmigej,\n\nen liten blå förgätmigej.\n\nDå skulle jag för dig förklara,\n\nhur innerligt jag älskar dej,\n\noch dej,\n\noch dej,\n\n…"
+            text: "`Sjungs efter sittning för att tacka personal`\n\nHur gärna ville jag ej vara\n\nen liten blå förgätmigej,\n\nen liten blå förgätmigej.\n\nDå skulle jag för dig förklara,\n\nhur innerligt jag älskar dej,\n\noch dej,\n\noch dej,\n\n…"
         },
         {
             name: "Brännvin filibombombom",

@@ -19,7 +19,7 @@ export default async function Home() {
             Dalo
           </h1>
 
-          <p>
+          <p className='text-center'>
             Här pluggar framtidens dataloger och annat schysst folk på Mälardalens Universitet.
           </p>
           <div className='flex justify-center gap-4 mb-2'>

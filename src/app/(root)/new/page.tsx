@@ -144,7 +144,7 @@ export default function New() {
         <div className="grid grid-cols-1 md:grid-cols-2">
           <div className="relative w-full aspect-square">
             <Image
-              className="h-full w-full    aspect-square"
+              className="h-full w-full  aspect-square m-0"
               alt={""}
               loading="lazy"
               src="/hitract-bild-1.png"
@@ -159,7 +159,7 @@ export default function New() {
           </div>
           <div className="relative w-full aspect-square">
             <Image
-              className="h-full w-full    aspect-square"
+              className="h-full w-full    aspect-square m-0"
               alt={""}
               loading="lazy"
               src="/hitract-bild-2.png"
@@ -174,7 +174,7 @@ export default function New() {
           </div>
           <div className="relative w-full aspect-square">
             <Image
-              className="h-full w-full    aspect-square"
+              className="h-full w-full    aspect-square m-0"
               alt={""}
               loading="lazy"
               src="/hitract-bild-3.png"
@@ -189,7 +189,7 @@ export default function New() {
           </div>
           <div className="relative w-full aspect-square">
             <Image
-              className="h-full w-full    aspect-square"
+              className="h-full w-full    aspect-square m-0"
               alt={""}
               loading="lazy"
               src="/hitract-bild-4.png"
@@ -204,7 +204,7 @@ export default function New() {
           </div>
           <div className="relative w-full aspect-square">
             <Image
-              className="h-full w-full    aspect-square"
+              className="h-full w-full    aspect-square m-0"
               alt={""}
               loading="lazy"
               src="/hitract-bild-5.png"
@@ -219,7 +219,7 @@ export default function New() {
           </div>
           <div className="relative w-full aspect-square">
             <Image
-              className="h-full w-full    aspect-square"
+              className="h-full w-full    aspect-square m-0"
               alt={""}
               loading="lazy"
               src="/hitract-bild-6.png"
@@ -234,7 +234,7 @@ export default function New() {
           </div>
           <div className="relative w-full aspect-square">
             <Image
-              className="h-full w-full    aspect-square"
+              className="h-full w-full    aspect-square m-0"
               alt={""}
               loading="lazy"
               src="/hitract-bild-7.png"
@@ -249,7 +249,7 @@ export default function New() {
           </div>
           <div className="relative w-full aspect-square">
             <Image
-              className="h-full w-full    aspect-square"
+              className="h-full w-full    aspect-square m-0"
               alt={""}
               loading="lazy"
               src="/hitract-bild-8.png"
@@ -267,6 +267,7 @@ export default function New() {
         <Image
           alt={""}
           loading="lazy"
+          className="m-0"
           src="/hitract-studenter.png"
           height={550}
           width={820}
