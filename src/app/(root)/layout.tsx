@@ -44,21 +44,22 @@ export default function RootLayout({
     {
       title: "Social",
       items: [
-        {
-          title: "Facebook",
-          link: "https://www.facebook.com/",
-        },
+        
         {
           title: "Instagram",
-          link: "https://www.instagram.com/",
+          link: "https://www.instagram.com/dalo_mdu",
         },
         {
           title: "Discord",
-          link: "https://discord.gg/",
+          link: "https://discord.gg/Y6Sw5WH",
         },
         {
           title: "GitHub",
-          link: ""
+          link: "https://github.com/dalo-mdu"
+        },
+        {
+          title: "Facebook",
+          link: "https://www.facebook.com/datalogiforeningen",
         }
         
 

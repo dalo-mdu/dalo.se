@@ -9,9 +9,6 @@ import Link from 'next/link'
 export default async function Home() {
 
 
-  //const { data: newsData } = await client.query({ query: LIST_NEW })
-  //const news: INewAttributes[] = newsData.news.data;
-
   return (
     <div className="grid grid-cols-1  lg:h-full lg:min-h-[30rem] lg:flex-1">
    
@@ -62,5 +59,3 @@ export default async function Home() {
     </div>
   )
 }
-
-export const revalidate = 60; 

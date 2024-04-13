@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DALOs Föreningsida
 
-## Getting Started
+Detta är Dalos föreningsida som är byggd med Next.js och använder Tailwind CSS.
 
-First, run the development server:
+## Teknologier / Ramverk / Bibliotek
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Headless UI](https://headlessui.dev/)
+- [Heroicons](https://heroicons.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Mål
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [ ] Implementera Supabase för hantering av sidan av administratörer.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Installation
 
-## Learn More
+För att köra projektet lokalt, följ dessa steg:
 
-To learn more about Next.js, take a look at the following resources:
+1. Klona projektet från GitHub:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    ```bash
+    git clone https://github.com/dalo/site.git
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2. Gå till projektmappen:
 
-## Deploy on Vercel
+    ```bash
+    cd site
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Installera beroenden med Yarn eller npm:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    ```bash
+    yarn install
+    # eller
+    npm install
+    ```
+
+4. Starta utvecklingsservern:
+
+    ```bash
+    yarn dev
+    # eller
+    npm run dev
+    ```
+
+Nu är [http://localhost:3000](http://localhost:3000) tillgängligt i din webbläsare. 
+
+## Bidrag
+
+Om du vill bidra till projektet, följ dessa steg:
+
+1. Forka projektet till ditt eget GitHub-konto.
+
+2. Klona ditt forkade projekt:
+
+    ```bash
+    git clone https://github.com/{ditt-användarnamn}/site.git # Byt ut {ditt-användarnamn} mot ditt användarnamn
+    ```
+
+3. Gå till projektmappen:
+
+    ```bash
+    cd site
+    ```
+
+4. Skapa en ny branch för dina ändringar:
+
+    ```bash
+    git checkout -b feature/{ny-funktion} # Byt ut "{ny-funktion}" mot en beskrivande text
+    # eller
+    git checkout -b fix/{bugg} # Byt ut "{bugg}" mot en beskrivande text
+    ```
+
+5. Gör dina ändringar och commita dem:
+
+    ```bash
+    git add .
+    git commit -m "Beskrivning av ändringar"
+    ```
+
+6. Pusha dina ändringar till ditt forkade projekt:
+
+    ```bash
+    git push origin feature/{ny-funktion} 
+    # eller
+    git push origin fix/{bugg}
+    ```
+
+7. Öppna en pull request på GitHub för att föreslå dina ändringar till huvudprojektet.
+
+## Licens
+
+Detta projekt är licensierat under MIT-licensen. Se [LICENSE](LICENSE) för mer information.

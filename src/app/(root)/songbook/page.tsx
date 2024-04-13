@@ -9,8 +9,6 @@ import { useEffect, useState } from 'react';
 
 
 export default function Songbook() {
-    //fetch songs
-
     const [showScroll, setShowScroll] = useState<boolean>(false)
 
     const Songs:ISongInfo[] = [

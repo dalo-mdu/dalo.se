@@ -8,9 +8,7 @@ export default function Header() {
     const [prevScrollPos, setPrevScrollPos] = useState(0);
 
     const handleScroll = () => {
-        //if delta of scroll is positive, we are scrolling down
-
-        const currentScrollPos = window.pageYOffset;
+        const currentScrollPos = window.scrollY;
         const delta = currentScrollPos - prevScrollPos;
         const isScrolledDown = delta > 0;
         if(isScrolledDown && currentScrollPos > 100)
