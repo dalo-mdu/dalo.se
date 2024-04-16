@@ -9,8 +9,8 @@ export default function Footer(
 
     return (
         <footer className="flex justify-center border-t dark:border-t-white border-t-black dark:text-white">
-            <div className="max-w-7xl w-full px-24 md:px-10 ">
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 items-start">
+            <div className="max-w-7xl w-full sm:px-24 px-6 md:px-10 ">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 sm:gap-10 items-start">
                     {
                         items.map((item, index) => {
                             return (
@@ -18,7 +18,7 @@ export default function Footer(
                                     <h2 className="font-extrabold">
                                         {item.title}
                                     </h2>
-                                    <div className="grid grid-cols-2 gap-2">
+                                    <div className="grid sm:grid-cols-2 gap-2">
                                     {
                                         item.items.map((subitem:any) => {
                                             return (

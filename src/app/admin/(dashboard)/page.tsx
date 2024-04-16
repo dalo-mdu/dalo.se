@@ -127,8 +127,8 @@ export default function Dashboard() {
               <ChartBarIcon className="w-4 h-4 text-primary" />
             </CardHeader>
             <CardContent>
-              <ResponsiveContainer width="100%" height={350}>
-                <LineChart data={data}>
+              <ResponsiveContainer width="100%" height={400} >
+                <LineChart data={data} >
                   <XAxis
                     dataKey="name"
                     stroke="#888888"
@@ -144,6 +144,7 @@ export default function Dashboard() {
                     tickFormatter={(value) => `${value}`}
                   />
                   <Line
+                    animationDuration={250}
                     type="monotone"
                     dataKey="views"
                     stroke="currentColor"
