@@ -1,4 +1,4 @@
-import { BookOpenIcon, ChartBarIcon, CogIcon, MusicalNoteIcon, UserGroupIcon } from "@heroicons/react/24/outline";
+import { BookOpenIcon, ChartBarIcon, CogIcon, MusicalNoteIcon, UserGroupIcon,BeakerIcon } from "@heroicons/react/24/outline";
 import { ArrowRightEndOnRectangleIcon } from "@heroicons/react/16/solid";
 import Link from "next/link";
 
@@ -36,6 +36,11 @@ function SideBar() {
                     <li className="p-4 border-b border-yellow-950/10 dark:border-yellow-300/10">
                         <Link className="flex gap-2 items-center" href="/admin/settings">
                             <CogIcon className="w-5 h-5" /> <div>Inställningar</div>
+                        </Link>
+                    </li>
+                    <li className="p-4 border-b border-yellow-950/10 dark:border-yellow-300/10 mt-24 border-t  text-yellow-700 ">
+                        <Link className="flex gap-2 items-center" href="/admin/experiments">
+                            <BeakerIcon className="w-5 h-5 " /> <div>Experiment</div>
                         </Link>
                     </li>
                     
