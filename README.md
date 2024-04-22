@@ -1,4 +1,6 @@
 # DALOs Föreningsida
+[![Create and publish a Docker image for dalo.se](https://github.com/dalo-mdu/dalo.se/actions/workflows/docker-image.yml/badge.svg)](https://github.com/dalo-mdu/dalo.se/actions/workflows/docker-image.yml)
+
 
 Detta är Dalos föreningsida som är byggd med Next.js och använder Tailwind CSS.
 
