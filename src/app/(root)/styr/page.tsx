@@ -54,6 +54,12 @@ const styrelse: StyrelseMember[] = [
     role: "Ledamot",
   },
   {
+    forename: "Dino",
+    surname: "Brankovic",
+    nickname: "Race Condition",
+    role: "Ledamot",
+  },
+  {
     forename: "Omar",
     surname: "Salloum",
     nickname: "Xzibit",
