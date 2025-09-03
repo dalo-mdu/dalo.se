@@ -15,12 +15,7 @@ export default function SongText({ song }: SongTextProps) {
             {song.writer && <h3 className="text-xs">{song.writer}</h3>}
             {song.note && <h4 className="text-base text-neutral-400 ">{song.note}</h4>}
             <ReactMarkdown className="mt-6"  components={{
-                pre: 'p',
                 p: ({ node, ...props }) => <p {...props} className="dark:text-yellow-50 mb-2" />,
-                code:  ({ node, ...props }) => <em {...props} className="italic bg-yellow-200 px-4 py-2 rounded-lg text-yellow-900 border-2 border-yellow-600 inline-block mb-1" />,
-                
-
-                
             }} >{song.text}</ReactMarkdown>
         </div>
     )
