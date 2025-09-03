@@ -36,10 +36,9 @@ Jag vet att Du är och Du blir vad Du var.
         },
         {
             name: "Rida get",
+            note: "DALOs “föreningslåt”",
             text:
-`DALOs “föreningslåt”
-
-Riida Rida Get
+`Riida Rida Get
 
 En glad analfabet
 
@@ -162,10 +161,9 @@ Vems är gaffeln i mitt högra lår!`
         {
             name: "JASen",
             melody: "Melodi: Måsen",
+            note: "Sjungs som svar när M.A.C.H. har sjungit JAS-hymnen",
             text:
-`\`Sjungs som svar när M.A.C.H. har sjungit JAS-hymnen\`
-
-Och Jasen styrde mot Västerbron
+`Och Jasen styrde mot Västerbron
 
 men styrsystemet var trasigt.
 
@@ -184,6 +182,7 @@ på Västerbron.`
         {
             name: "Strejk på Pripps",
             melody: "Melodi: I natt jag drömde",
+            note: "Man säger endast skål om man tänker dricka",
             text:
 `I natt jag drömde något som,
 
@@ -213,9 +212,7 @@ WHISKY OCH RENAT
 
 VÅRT MÅL: ALKOHOL
 
-FÖR DEN SOM TÅL! SKÅL!
-
-Man säger endast skål om man tänker dricka`
+FÖR DEN SOM TÅL! SKÅL!`
         },
         {
             name: "Öl, öl, öl i glas",
@@ -230,9 +227,7 @@ ta en klunk o svälj!`
         {
             name: "Lambo",
             text:
-`TODO: Skriv en fet info låda Resten
-
-Sätt nu glaset till din mun!
+`Resten Sätt nu glaset till din mun!
 
 Tjo-fa-de-rittan lambo!
 
@@ -270,12 +265,9 @@ en riktig fylle-fylle hund!`
         },
         {
             name: "Tacksång för spex",
+            note: "Denna sjunger man efter att någon har genomfört ett spex på t.ex. en sittning. Ersätt [XX] med rätt pronomen eller namn",
             text:
-`Denna sjunger man efter att någon har genomfört ett spex på<br>
-
-t.ex. en sittning. Ersätt [XX] med rätt pronomen eller namn
-
-Alla  Det där det gjorde [XX] fan så bra (hej!)
+`Alla  Det där det gjorde [XX] fan så bra (hej!)
 
 En skål uti botten för [XX] nu vi tar!
 
@@ -456,10 +448,9 @@ rubbo!`
         },
         {
             name: "Blå förgätimej",
+            note: "Sjungs efter sittning för att tacka personal",
             text:
-`\`Sjungs efter sittning för att tacka personal\`
-
-Hur gärna ville jag ej vara
+`Hur gärna ville jag ej vara
 
 en liten blå förgätmigej,
 
@@ -674,10 +665,9 @@ Mera öl…`
         {
             name: "JAS-hymn",
             melody: "Melodi: Nu grönskar det",
+            note: "M.A.C.H.s “föreningslåt”",
             text:
-`M.A.C.H.s “föreningslåt”
-
-För vi har världens bästa plan
+`För vi har världens bästa plan
 
 med mängder av bomber och speed.
 
