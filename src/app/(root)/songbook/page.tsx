@@ -86,7 +86,7 @@ Nuuu- kan jag inte se nå\’ mer!`
             name: "Feta fransyskor",
             melody: "Melodi: Militärmarsch av Schubert",
             text:
-`Alla    Feta fransyskor som svettas om fötterna.
+`**Alla:** Feta fransyskor som svettas om fötterna.
 
 De trampar druvor som sedan ska jäsas till vin.
 
@@ -104,13 +104,13 @@ Vi vill ha vin, vill ha vin, vill ha mera vin,
 
 även om följderna blir att vi må lida pin.
 
-Tjejer  Flaskan och glaset gått i sin.
+**Tjejer:** Flaskan och glaset gått i sin.
 
-Killar  Hit med vin, mera vin!
+**Killar:** Hit med vin, mera vin!
 
-Tjejer  Tror ni att vi är fyllesvin?
+**Tjejer:** Tror ni att vi är fyllesvin?
 
-Killar  JA! FAST STÖRRE!!`
+**Killar:** JA! FAST STÖRRE!!`
         },
         {
             name: "Jag ska festa",
@@ -231,7 +231,7 @@ ta en klunk o svälj!`
         {
             name: "Lambo",
             text:
-`Resten Sätt nu glaset till din mun!
+`**Resten:** Sätt nu glaset till din mun!
 
 Tjo-fa-de-rittan lambo!
 
@@ -247,19 +247,19 @@ Lambo-Hej! Lambo-Hej!
 
 Tjo-fa-de-rittan lambo!
 
-Fyllehund  Jag nu glaset druckit har!
+**Fyllehund:** Jag nu glaset druckit har!
 
-Resten     Tjo-fa-de-rittan lambo!
+**Resten:** Tjo-fa-de-rittan lambo!
 
-Fyllehund  Ej en droppe finnes kvar!
+**Fyllehund:** Ej en droppe finnes kvar!
 
-Resten     Tjo-fa-de-rittan lambo!
+**Resten:** Tjo-fa-de-rittan lambo!
 
-Fyllehund  Som bevis jag nu skall vända
+**Fyllehund:** Som bevis jag nu skall vända
 
 glaset på dess rätta ända.
 
-Resten     Lambo-Hej! Lanbo-Hej!
+**Resten:** Lambo-Hej! Lanbo-Hej!
 
 Tjo-fa-de-rittan lambo!
 
@@ -271,7 +271,7 @@ en riktig fylle-fylle hund!`
             name: "Tacksång för spex",
             note: "Denna sjunger man efter att någon har genomfört ett spex på t.ex. en sittning. Ersätt [XX] med rätt pronomen eller namn",
             text:
-`Alla  Det där det gjorde [XX] fan så bra (hej!)
+`**Alla:** Det där det gjorde [XX] fan så bra (hej!)
 
 En skål uti botten för [XX] nu vi tar!
 
@@ -283,138 +283,138 @@ En skål uti botten för [XX] nu vi tar!
 
 Och alla så dricker vi nu [XX] till!
 
-[XX]  Och [XX] säger inte nej därtill!
+**[XX]:** Och [XX] säger inte nej därtill!
 
-Alla  För det var i vår ungdoms fagraste vår,
+**Alla:** För det var i vår ungdoms fagraste vår,
 
 vi drack varandra till och vi sade gutååår!`
         },
         {
             name: "Kalmarevisan",
             text:
-`Ledare  𝄆 För uti Kalmare Stad
+`**Ledare:** 𝄆 För uti Kalmare Stad
 
-Alla    ja där finns inge kvast 𝄇
+**Alla:** ja där finns inge kvast 𝄇
 
-Alla    förrän lördagen.
+**Alla:** förrän lördagen.
 
 &nbsp;
 
 *Ref*
 
-Ledare  Hej Dick.
+**Ledare:** Hej Dick.
 
-Alla    Hej Dack.
+**Alla:** Hej Dack.
 
-Ledare  Jag slog i.
+**Ledare:** Jag slog i.
 
-Alla    Och vi drack.
+**Alla:** Och vi drack.
 
-Ledare  Hej dickom dickom dack.
+**Ledare:** Hej dickom dickom dack.
 
-Alla    Hej dickom dickom dack.
+**Alla:** Hej dickom dickom dack.
 
-Alla    För uti Kalmar stad finns det ingen
+**Alla:** För uti Kalmar stad finns det ingen
 
 kvast förrän lördagen.
 
 &nbsp;
 
-Ledare  𝄆 När som bonden kommer hem,
+**Ledare:** 𝄆 När som bonden kommer hem,
 
-Alla    kommer bondekvinnan ut 𝄇
+**Alla:** kommer bondekvinnan ut 𝄇
 
-Alla    och är stor i sin trut.
-
-&nbsp;
-
-*Ref*
-
-Hej Dick…
-
-&nbsp;
-
-Ledare  𝄆 Vart är pengarna du fått?
-
-Alla    Jo dom har jag supit opp! 𝄇
-
-Alla    Uppå Kalmare slot.
+**Alla:** och är stor i sin trut.
 
 &nbsp;
 
 *Ref*
 
-Hej Dick…
+**Ledare:** Hej Dick…
 
 &nbsp;
 
-Ledare  𝄆 Jag skall mäla dig an,
+**Ledare:** 𝄆 Vart är pengarna du fått?
 
-Alla    för vår kronbefallningsman 𝄇
+**Alla:** Jo dom har jag supit opp! 𝄇
 
-Alla    Och du skall få skam
-
-&nbsp;
-
-*Ref*
-
-Hej Dick…
-
-&nbsp;
-
-Ledare  𝄆 Kronbefallningsmannen vår,
-
-Alla    satt på krogen igår 𝄇
-
-Alla    Och var full som ett får
+**Alla:** Uppå Kalmare slot.
 
 &nbsp;
 
 *Ref*
 
-Hej Dick…
+**Ledare:** Hej Dick…
 
 &nbsp;
 
-Ledare  𝄆 Va\’ ska\’ bonnen ha te\’ mat?
+**Ledare:** 𝄆 Jag skall mäla dig an,
 
-Alla    Sura sillar och potat 𝄇
+**Alla:** för vår kronbefallningsman 𝄇
 
-Alla    Det blir sillsallad.
-
-&nbsp;
-
-*Ref*
-
-Hej Dick…
-
-&nbsp;
-
-Ledare  𝄆 Var är din labbrapport?
-
-Alla    Jo, den har jag supit bort 𝄇
-
-Alla    För den var för kort.
+**Alla:** Och du skall få skam
 
 &nbsp;
 
 *Ref*
 
-Hej Dick…
+**Ledare:** Hej Dick…
 
 &nbsp;
 
-Ledare  𝄆 När jag ser en teknolog
+**Ledare:** 𝄆 Kronbefallningsmannen vår,
 
-Alla    Tar jag fram min motorsåg 𝄇
+**Alla:** satt på krogen igår 𝄇
 
-Alla    Och han blir så låg
+**Alla:** Och var full som ett får
 
 &nbsp;
 
 *Ref*
 
-Hej Dick…`
+**Ledare:** Hej Dick…
+
+&nbsp;
+
+**Ledare:** 𝄆 Va\’ ska\’ bonnen ha te\’ mat?
+
+**Alla:** Sura sillar och potat 𝄇
+
+**Alla:** Det blir sillsallad.
+
+&nbsp;
+
+*Ref*
+
+**Ledare:** Hej Dick…
+
+&nbsp;
+
+**Ledare:** 𝄆 Var är din labbrapport?
+
+**Alla:** Jo, den har jag supit bort 𝄇
+
+**Alla:** För den var för kort.
+
+&nbsp;
+
+*Ref*
+
+**Ledare:** Hej Dick…
+
+&nbsp;
+
+**Ledare:** 𝄆 När jag ser en teknolog
+
+**Alla:** Tar jag fram min motorsåg 𝄇
+
+**Alla:** Och han blir så låg
+
+&nbsp;
+
+*Ref*
+
+**Ledare:** Hej Dick…`
         },
         {
             name: "Porthos visa",
