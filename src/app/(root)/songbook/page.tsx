@@ -36,7 +36,7 @@ Jag vet att Du är och Du blir vad Du var.
         },
         {
             name: "Rida get",
-            note: "DALOs “föreningslåt”",
+            note: "DALOs ”föreningslåt”",
             text:
 `Riida Rida Get
 
@@ -665,7 +665,7 @@ Mera öl…`
         {
             name: "JAS-hymn",
             melody: "Melodi: Nu grönskar det",
-            note: "M.A.C.H.s “föreningslåt”",
+            note: "M.A.C.H.s ”föreningslåt”",
             text:
 `För vi har världens bästa plan
 
@@ -737,15 +737,15 @@ Och tungan lådde vid skepparns gom,
 
 där skutan låg uti blecket.
 
-“Jag vill ha sill!” hördes måsen rope
+”Jag vill ha sill!” hördes måsen rope
 
-och skepparn svarte: “Jag vill ha OP!
+och skepparn svarte: ”Jag vill ha OP!”
 
 Om blott jag får, om blott jag får.
 
 &nbsp;
 
-”Nu lyfter måsen från klybarbom,
+Nu lyfter måsen från klybarbom,
 
 och vinden spelar i tågen.
 
