@@ -126,7 +126,9 @@ Ta det sansat för min egen skull.
 
 &nbsp;
 
-Ref: Först en öl i torra stupen,
+*Ref*
+
+Först en öl i torra stupen,
 
 efter det så kommer supen,
 
@@ -146,7 +148,9 @@ Kastat upp på bordsdamen brevé.
 
 &nbsp;
 
-Ref: Först en öl…
+*Ref*
+
+Först en öl…
 
 &nbsp;
 
@@ -296,7 +300,9 @@ Alla    förrän lördagen.
 
 &nbsp;
 
-Ref: Ledare  Hej Dick.
+*Ref*
+
+Ledare  Hej Dick.
 
 Alla    Hej Dack.
 
@@ -322,7 +328,9 @@ Alla    och är stor i sin trut.
 
 &nbsp;
 
-Ref: Hej Dick…
+*Ref*
+
+Hej Dick…
 
 &nbsp;
 
@@ -334,7 +342,9 @@ Alla    Uppå Kalmare slot.
 
 &nbsp;
 
-Ref: Hej Dick…
+*Ref*
+
+Hej Dick…
 
 &nbsp;
 
@@ -346,7 +356,9 @@ Alla    Och du skall få skam
 
 &nbsp;
 
-Ref: Hej Dick…
+*Ref*
+
+Hej Dick…
 
 &nbsp;
 
@@ -358,7 +370,9 @@ Alla    Och var full som ett får
 
 &nbsp;
 
-Ref: Hej Dick…
+*Ref*
+
+Hej Dick…
 
 &nbsp;
 
@@ -370,7 +384,9 @@ Alla    Det blir sillsallad.
 
 &nbsp;
 
-Ref: Hej Dick…
+*Ref*
+
+Hej Dick…
 
 &nbsp;
 
@@ -382,7 +398,9 @@ Alla    För den var för kort.
 
 &nbsp;
 
-Ref: Hej Dick…
+*Ref*
+
+Hej Dick…
 
 &nbsp;
 
@@ -394,7 +412,9 @@ Alla    Och han blir så låg
 
 &nbsp;
 
-Ref: Hej Dick…`
+*Ref*
+
+Hej Dick…`
         },
         {
             name: "Porthos visa",
