@@ -24,6 +24,8 @@ Jag hälsar Dig, vänaste land uppå jord,
 
 𝄆 Din sol, Din himmel, Dina ängder gröna. 𝄇
 
+&nbsp;
+
 Du tronar på minnen från fornstora da'r,
 
 då ärat Ditt namn flög över jorden.
@@ -62,6 +64,8 @@ Expediten sa goda\’ hur gammal kan min herre va?
 Har du nått leg ditt fula dräää-gg?
 
 Kooo-m hit igen när du fått skägg!
+
+&nbsp;
 
 Meee-n detta var ju inte bra,
 
@@ -121,6 +125,8 @@ Inte krypa runt med festeliten.
 
 Ta det sansat för min egen skull.
 
+&nbsp;
+
 Ref: Först en öl i torra stupen,
 
 efter det så kommer supen,
@@ -128,6 +134,8 @@ efter det så kommer supen,
 i med vinet, ner med punschen,
 
 sist en groggbuffé.
+
+&nbsp;
 
 Jag är skitfull, däckar först av alla,
 
@@ -137,7 +145,11 @@ Blandar hejdlöst öl och gammal filmjölk.
 
 Kastat upp på bordsdamen brevé.
 
+&nbsp;
+
 Ref: Först en öl…
+
+&nbsp;
 
 Spyan rinner ner för n0lleslipsen.
 
@@ -188,6 +200,8 @@ där ölen stod på rad.
 Jag drack sådär ett tusental
 
 och reste mig och sa:
+
+&nbsp;
 
 ARMEN I VINKEL
 
@@ -288,6 +302,8 @@ Alla    ja där finns inge kvast 𝄇
 
 Alla    förrän lördagen.
 
+&nbsp;
+
 Ref: Ledare  Hej Dick.
 
 Alla    Hej Dack.
@@ -304,13 +320,19 @@ Alla    För uti Kalmar stad finns det ingen
 
 kvast förrän lördagen.
 
+&nbsp;
+
 Ledare  𝄆 När som bonden kommer hem,
 
 Alla    kommer bondekvinnan ut 𝄇
 
 Alla    och är stor i sin trut.
 
+&nbsp;
+
 Ref: Hej Dick…
+
+&nbsp;
 
 Ledare  𝄆 Vart är pengarna du fått?
 
@@ -318,7 +340,11 @@ Alla    Jo dom har jag supit opp! 𝄇
 
 Alla    Uppå Kalmare slot.
 
+&nbsp;
+
 Ref: Hej Dick…
+
+&nbsp;
 
 Ledare  𝄆 Jag skall mäla dig an,
 
@@ -326,7 +352,11 @@ Alla    för vår kronbefallningsman 𝄇
 
 Alla    Och du skall få skam
 
+&nbsp;
+
 Ref: Hej Dick…
+
+&nbsp;
 
 Ledare  𝄆 Kronbefallningsmannen vår,
 
@@ -334,7 +364,11 @@ Alla    satt på krogen igår 𝄇
 
 Alla    Och var full som ett får
 
+&nbsp;
+
 Ref: Hej Dick…
+
+&nbsp;
 
 Ledare  𝄆 Va\’ ska\’ bonnen ha te\’ mat?
 
@@ -342,7 +376,11 @@ Alla    Sura sillar och potat 𝄇
 
 Alla    Det blir sillsallad.
 
+&nbsp;
+
 Ref: Hej Dick…
+
+&nbsp;
 
 Ledare  𝄆 Var är din labbrapport?
 
@@ -350,13 +388,19 @@ Alla    Jo, den har jag supit bort 𝄇
 
 Alla    För den var för kort.
 
+&nbsp;
+
 Ref: Hej Dick…
+
+&nbsp;
 
 Ledare  𝄆 När jag ser en teknolog
 
 Alla    Tar jag fram min motorsåg 𝄇
 
 Alla    Och han blir så låg
+
+&nbsp;
 
 Ref: Hej Dick…`
         },
@@ -376,11 +420,15 @@ en TT börja svinga,
 
 men för faan bara blunda och svälj.
 
+&nbsp;
+
 Vilken smörja,
 
 får jag spörja,
 
 vem för faan tror att jag är en älg?
+
+&nbsp;
 
 Till England vi rider
 
@@ -459,6 +507,8 @@ Nu ska jag gå och spy en stund,
 
 helt vingelig och sne.
 
+&nbsp;
+
 Armen i vinkel, båge mot knät,
 
 så var det menat, capsa på renat,
@@ -485,6 +535,8 @@ När dörren öppnas står min hall och lutar
 
 𝄆 Hallen luta, hallen luta 𝄇
 
+&nbsp;
+
 Jag minns knappt julen nittitre
 
 Min bror var där och syster mé
@@ -498,6 +550,8 @@ Min dejt blev trött och schappade
 Så jag fick mera tid för hen den röde
 
 𝄆 Hen i luva, hen i luva 𝄇
+
+&nbsp;
 
 Fredagar har mer att ge
 
@@ -533,6 +587,8 @@ och nu så har festen kommit,
 
 för jag har just tagit bort Phös.
 
+&nbsp;
+
 Jag gör mycket öl i stopen,
 
 så där så det hoppar och far.
@@ -548,6 +604,8 @@ och små nubbar här och där.
 Jag gör himlen vacker om kvällen,
 
 för jag gör den alldeles gul.
+
+&nbsp;
 
 Och vodka det gör jag åt barna,
 
@@ -585,7 +643,11 @@ Mina blickar går mot taket,
 
 Därmed undgår jag frestarens garn.
 
+&nbsp;
+
 Halleluja…
+
+&nbsp;
 
 Bacchus spelar på gitarren,
 
@@ -595,6 +657,8 @@ Alla djävlar dansar tango
 
 Säg vad kan man önska sig mer?
 
+&nbsp;
+
 Jo, att alla bäckar vore brännvin,
 
 SVARTÅN full av bayerskt öl,
@@ -602,6 +666,8 @@ SVARTÅN full av bayerskt öl,
 Konjak i varenda rännsten,
 
 Och punsch i varendaste pöl, mera öl!
+
+&nbsp;
 
 Mera öl…`
         },
@@ -619,6 +685,8 @@ Kom med, kom med på två machs färd
 
 i våran bistra tid.
 
+&nbsp;
+
 Vart plan är byggt som utav stål
 
 till bredden fyllt med elektronik.
@@ -626,6 +694,8 @@ till bredden fyllt med elektronik.
 Det väldigt mycket G-kraft tål
 
 nej, ingen är Jasen lik.
+
+&nbsp;
 
 Den flyger högt, den flyger lågt,
 
@@ -635,6 +705,8 @@ Den flyger rätt, den flyger lätt,
 
 den flyger heltenkelt som smort.
 
+&nbsp;
+
 Den landar kanske ej så bra
 
 men vad sjuttsingen gör väl de\’?
@@ -643,6 +715,8 @@ Den kan ju flyga från en ryss
 
 och svänga i sju-åtta G.
 
+&nbsp;
+
 Sverige har en gammal tradition
 
 att bygga flygplan av klass.
@@ -650,6 +724,8 @@ att bygga flygplan av klass.
 Vi Tunnvis plan Lanserat har så
 
 sJas, Drak iväg och försVigg!
+
+&nbsp;
 
 Vi är så bra, så hejdans bäst,
 
@@ -677,6 +753,8 @@ och skepparn svarte: “Jag vill ha OP!
 
 Om blott jag får, om blott jag får.
 
+&nbsp;
+
 ”Nu lyfter måsen från klybarbom,
 
 och vinden spelar i tågen.
@@ -691,6 +769,8 @@ han sätter storsegel den krabaten.
 
 Till sjöss han far, och Halvan tar.
 
+&nbsp;
+
 Nu månen vandrar sin tysta ban
 
 och tittar in genom rutan.
@@ -704,6 +784,8 @@ Då kan jag klara mig utan måne,
 men utan renat och utan skåne,
 
 det vete fan, det vete fan.
+
+&nbsp;
 
 Den mås som satt på en klyvarbom,
 
@@ -752,6 +834,8 @@ i en oändlig loop av…`
 16 17 18 19
 
 13 55!
+
+&nbsp;
 
 1 2 75 6 7 75 6 7 75 6 7
 
