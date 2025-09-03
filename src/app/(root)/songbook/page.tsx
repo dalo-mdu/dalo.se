@@ -72,7 +72,7 @@ jag vill bli full ikväll. IGEN!
 
 Då plötsligt en idé jag fick,
 
-dom har ju sprit på Shell. OK!
+dom har ju sprit på Shell. O.K.!
 
 Många flaskor stod där på rad så nu
 
@@ -179,7 +179,7 @@ Han ville uppåt han ville mer,
 
 men planet svarte han ville ner.
 
-Mot alla jon,
+Mot alla hjon,
 
 på Västerbron.`
         },
@@ -259,7 +259,7 @@ Tjo-fa-de-rittan lambo!
 
 glaset på dess rätta ända.
 
-**Resten:** Lambo-Hej! Lanbo-Hej!
+**Resten:** Lambo-Hej! Lambo-Hej!
 
 Tjo-fa-de-rittan lambo!
 
@@ -713,7 +713,7 @@ den flyger snabbt och fort.
 
 Den flyger rätt, den flyger lätt,
 
-den flyger heltenkelt som smort.
+den flyger helt enkelt som smort.
 
 &nbsp;
 
@@ -731,9 +731,9 @@ Sverige har en gammal tradition
 
 att bygga flygplan av klass.
 
-Vi Tunnvis plan Lanserat har så
+Vi Tunnvis plan Lanserat har
 
-sJas, Drak iväg och försVigg!
+så sJas, Drak iväg och försVigg!
 
 &nbsp;
 
@@ -755,7 +755,7 @@ och tom i krävan var kräket.
 
 Och tungan lådde vid skepparns gom,
 
-där skutan låg uti blecket.
+där skutan låg uti bleket.
 
 ”Jag vill ha sill!” hördes måsen rope
 
