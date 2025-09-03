@@ -882,6 +882,7 @@ det går till öl och till brännvin.`
         {
             name: "The basic song",
             melody: "Melodi: Mors lilla Olle",
+            note: "Man sjunger låten snabbare för varje GOTO",
             text:
 `\`\`\`
 10 LET oss nu fatta i våra glas
