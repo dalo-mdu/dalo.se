@@ -1,62 +1,41 @@
 import Styrcard from "@/components/styrcard";
 import { IBoardAttributes, StyrelseMember } from "@/types/types";
 
-/*
-Elin Olsson - Kapten / Ordförande
-Johan Sandred - Vice ordförande
-Ida Rynger - Sekreterare
-Linus Sjöö - Kassör
-Victor Herlin - Materialansvarig
-Lowe Göth - Ledamot
-Dino Brankovic - Ledamot
-Omar Farouq Salloum - Ledamot
-Axel Lintjärn - Ledamot
-Tindra Wessman - Suppleant
-Marcus Hammarström - Suppleant
-Caroline Hautaniemi - Suppleant
-*/
-
 const styrelse: StyrelseMember[] = [
-  {
-    forename: "Elin",
-    surname: "Olsson",
-    nickname: "Saft",
-    role: "Kapten",
-  },
-  {
-    forename: "Johan",
-    surname: "Sandred",
-    nickname: "Nisse",
-    role: "Vice ordförande",
-  },
-  {
-    forename: "Ida",
-    surname: "Rynger",
-    nickname: "Predator",
-    role: "Sekreterare",
-  },
   {
     forename: "Linus",
     surname: "Sjöö",
     nickname: "FILO",
-    role: "Kassör",
+    role: "Kapten",
   },
   {
-    forename: "Victor",
-    surname: "Herlin",
-    nickname: "2,5",
-    role: "Materialansvarig",
+    forename: "Karl",
+    surname: "Malmkvist",
+    nickname: "TP",
+    role: "Vice ordförande",
+  },
+  {
+    forename: "Anna",
+    surname: "Nematbakhsh",
+    nickname: undefined,
+    role: "Sekreterare",
+  },
+  {
+    forename: "Hampus",
+    surname: "Walldeck",
+    nickname: "GÄMF",
+    role: "Kassör",
   },
   {
     forename: "Lowe",
     surname: "Göth",
     nickname: "Sniper",
-    role: "Ledamot",
+    role: "Materialansvarig",
   },
   {
-    forename: "Dino",
-    surname: "Brankovic",
-    nickname: "Race Condition",
+    forename: "Elin",
+    surname: "Olsson",
+    nickname: "Saft",
     role: "Ledamot",
   },
   {
@@ -66,27 +45,27 @@ const styrelse: StyrelseMember[] = [
     role: "Ledamot",
   },
   {
-    forename: "Axel",
-    surname: "Lintjärn",
-    nickname: "Shazam",
+    forename: "Emelie",
+    surname: "Sandberg",
+    nickname: "Lille Skutt",
     role: "Ledamot",
   },
   {
-    forename: "Tindra",
-    surname: "Wessman",
-    nickname: "main{..}",
+    forename: "Liam",
+    surname: "Pettersson",
+    nickname: "Herden",
+    role: "Ledamot",
+  },
+  {
+    forename: "Rafaat",
+    surname: "Atia",
+    nickname: "Hök",
     role: "Suppleant",
   },
   {
-    forename: "Marcus",
-    surname: "Hammarström",
-    nickname: "ätaöl",
-    role: "Suppleant",
-  },
-  {
-    forename: "Caroline",
-    surname: "Hautaniemi",
-    nickname: undefined,
+    forename: "Sixten",
+    surname: "Elsner",
+    nickname: "Mr. Cool",
     role: "Suppleant",
   },
 ];
