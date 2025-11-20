@@ -17,7 +17,7 @@ const styrelse: StyrelseMember[] = [
   {
     forename: "Anna",
     surname: "Nematbakhsh",
-    nickname: undefined,
+    nickname: "Äpple",
     role: "Sekreterare",
   },
   {
