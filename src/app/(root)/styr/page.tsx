@@ -1,62 +1,60 @@
 import Styrcard from "@/components/styrcard";
 import { IBoardAttributes, StyrelseMember } from "@/types/types";
-
 /*
-Elin Olsson - Kapten / Ordförande
-Johan Sandred - Vice ordförande
-Ida Rynger - Sekreterare
-Linus Sjöö - Kassör
-Victor Herlin - Materialansvarig
-Lowe Göth - Ledamot
-Dino Brankovic - Ledamot
-Omar Farouq Salloum - Ledamot
-Axel Lintjärn - Ledamot
-Tindra Wessman - Suppleant
-Marcus Hammarström - Suppleant
-Caroline Hautaniemi - Suppleant
+Linus Sjöö - Kapten/Ordförande
+Karl Malmkvist - Vice Ordförande
+Anna Nematbakhsh - Sekreterare
+Hampus Walldeck - Kassör
+Lowe Göth - Materialansvarig
+Elin Olsson - Ledamot
+Omar Farouq Salloum - Ledamot             
+Emelie Sandberg - Ledamot
+Liam Petterson - Ledamot
+Rafaat Atia - Suppleant
+Sixten Elsner - Suppleant
 */
 
 const styrelse: StyrelseMember[] = [
   {
-    forename: "Elin",
-    surname: "Olsson",
-    nickname: "Saft",
-    role: "Kapten",
-  },
-  {
-    forename: "Johan",
-    surname: "Sandred",
-    nickname: "Nisse",
-    role: "Vice ordförande",
-  },
-  {
-    forename: "Ida",
-    surname: "Rynger",
-    nickname: "Predator",
-    role: "Sekreterare",
-  },
-  {
     forename: "Linus",
     surname: "Sjöö",
     nickname: "FILO",
-    role: "Kassör",
+    role: "Kapten",
   },
   {
-    forename: "Victor",
-    surname: "Herlin",
-    nickname: "2,5",
-    role: "Materialansvarig",
+    forename: "Karl",
+    surname: "Malmkvist",
+    nickname: "TP",
+    role: "Vice ordförande",
+  },
+  {
+    forename: "Anna",
+    surname: "Nematbakhsh",
+    nickname: "Äpple",
+    role: "Sekreterare",
+  },
+  {
+    forename: "Hampus",
+    surname: "Walldeck",
+    nickname: "GÄMF",
+    role: "Kassör",
   },
   {
     forename: "Lowe",
     surname: "Göth",
     nickname: "Sniper",
+    role: "Materialansvarig",
+  },
+  {
+    forename: "Elin",
+    surname: "Olsson",
+    nickname: "SAFT",
     role: "Ledamot",
   },
   {
-    forename: "Dino",
-    surname: "Brankovic",
-    nickname: "Race Condition",
+    forename: "Emelie",
+    surname: "Sandberg",
+    nickname: "Lille Skutt",
     role: "Ledamot",
   },
   {
@@ -66,29 +64,23 @@ const styrelse: StyrelseMember[] = [
     role: "Ledamot",
   },
   {
-    forename: "Axel",
-    surname: "Lintjärn",
-    nickname: "Shazam",
+    forename: "Liam",
+    surname: "Petterson",
+    nickname: "HERDEN",
     role: "Ledamot",
   },
   {
-    forename: "Tindra",
-    surname: "Wessman",
-    nickname: "main{..}",
+    forename: "Rafaat",
+    surname: "Atia",
+    nickname: "HÖK",
     role: "Suppleant",
   },
   {
-    forename: "Marcus",
-    surname: "Hammarström",
-    nickname: "ätaöl",
+    forename: "Sixten",
+    surname: "Elsner",
+    nickname: "Mister Cool",
     role: "Suppleant",
-  },
-  {
-    forename: "Caroline",
-    surname: "Hautaniemi",
-    nickname: undefined,
-    role: "Suppleant",
-  },
+  }
 ];
 export default async function Styrelse() {
 
