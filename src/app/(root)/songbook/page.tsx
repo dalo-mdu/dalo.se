@@ -891,6 +891,110 @@ det går till öl och till brännvin.`
 40 ELSE GOTO-baka till 10 igen
 50 END
 \`\`\``
+        },
+        {
+          name: "Att rida get",
+          text:
+
+`Att rida rida get
+
+en glad analfabet
+
+vi lever lever lever livet
+
+Jo för vi rider rider get
+
+fort fram med språng och spret
+
+på savannen så känner vi bara frihet!
+
+&nbsp;
+
+Men sitter man och känner
+
+att skoldagen är för lång
+
+så sätt dig ner och fyll strupen
+
+med massor av sprit och sång!
+
+&nbsp;
+
+Ja att rida rida get
+
+är en glad analfabet 
+
+och inte känner vi någon oro!
+
+Jo för vi rider rider get
+
+fort fram med språng och spret
+
+och ingen gör det bättre än DALO!
+
+&nbsp;
+
+De andras färger är ej bra
+
+nej, alla är dom fula
+
+Rött, grönt, rosa, lila, blått
+
+men inte är de gula!
+
+&nbsp;
+
+Men nånting undrar vi ibland
+
+när de andra skriker "Var är ni?"
+
+Men tänk inte på't
+
+för det är inte svårt
+
+bara svara "Här är vi!"
+
+Ja här är vi!
+
+Här är vi (VART?)
+
+här är vi (VART?)
+
+ja här är vi!
+
+&nbsp;
+
+Jo för att rida rida get (DET ÄR!)
+
+en glad analfabet (JAG SVÄR!)
+
+och endast geten ska få vår dyrkan
+
+Jo för vi rider rider get
+
+fort fram med sprang och spret
+
+och tror gör man I Dalo-kyrkan
+
+&nbsp;
+
+Men vi vet (JA)
+
+för vi smet (JA)
+
+med vishet (JA)
+
+och frihet (JA)
+
+å rida rida rida rida
+
+rida rida rida rida get!
+
+&nbsp;
+
+Men de lider lider lider utan get!
+
+För vi rider rider rider rider get!`
         }
     ]
 
