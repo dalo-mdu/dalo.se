@@ -48,7 +48,22 @@ export default function New() {
           </a>
           .
         </p>
-
+        <p>
+            Under rookieperioden finns det särskilda kanaler för rookies i vår{" "} 
+          <a
+            className=" dark:text-yellow-500 text-yellow-800"
+            href="https://discord.com"
+          >
+            Discord
+          </a>
+            . I dessa kanaler kommer den mesta av informationen under 
+            perioden att skickas ut, och du kan enkelt ställa frågor och 
+            chatta med både Rookiecrew och andra nya studenter. 
+            Rookiecrew rekommenderar starkt att ni går med i Discorden.{" "}
+          <strong>
+            Inbjudningslänk finns i välkomstbrevet.
+          </strong>
+        </p>
         <p>
           Med detta kommer ni enkelt kunna hitta era programkamrater, be om
           hjälp och vi kommer kunna informera er på ett smidigt sätt.
@@ -61,7 +76,6 @@ export default function New() {
           <li>Hitta på MDU.</li>
           <li>Aldrig ifrågasätta Phös.</li>
           <li>Alltid bära rookieslips.</li>
-          <li>Alltid ha med sig Bib3ln.</li>
           <li>Delta i alla events för rookiens eget bästa.</li>
           <li>
             Leva vid orden &rdquo;Närhet är kärlek&rdquo;
@@ -77,7 +91,7 @@ export default function New() {
           <li>Inbilla sig att n0llan någonsin blir en etta.</li>
           <li>Ifrågasätta Phös</li>
         </ul>
-        <p>En n0lla är en student som har 0HP!</p>
+        <p>En n0llan är studenter som har 0HP!</p>
 
         <h2>CSN</h2>
         <p>
