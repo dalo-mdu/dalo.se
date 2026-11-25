@@ -3,75 +3,49 @@ import { IBoardAttributes, StyrelseMember } from "@/types/types";
 
 const styrelse: StyrelseMember[] = [
   {
-    forename: "Linus",
-    surname: "Sjöö",
-    nickname: "FILO",
+    forename: "Viktor",
+    surname: "Dahlblom",
+    nickname: "Gump",
     role: "Kapten",
+  },
+  {
+    forename: "Nikola",
+    surname: "Herou",
+    nickname: "Meta",
+    role: "Vice ordförande",
+  },
+  {
+    forename: "Margo",
+    surname: "Zarytovska",
+    nickname: "Brand",
+    role: "Sekreterare",
+  },
+  {
+    forename: "Martin",
+    surname: "Söderman",
+    nickname: "Ninja",
+    role: "Kassör",
   },
   {
     forename: "Karl",
     surname: "Malmkvist",
     nickname: "TP",
-    role: "Vice ordförande",
-  },
-  {
-    forename: "Anna",
-    surname: "Nematbakhsh",
-    nickname: "Äpple",
-    role: "Sekreterare",
-  },
-  {
-    forename: "Hampus",
-    surname: "Walldeck",
-    nickname: "GÄMF",
-    role: "Kassör",
-  },
-  {
-    forename: "Lowe",
-    surname: "Göth",
-    nickname: "Sniper",
     role: "Materialansvarig",
   },
   {
-    forename: "Elin",
-    surname: "Olsson",
-    nickname: "Saft",
+    forename: "Johan",
+    surname: "Skytt",
+    nickname: "Dunder",
     role: "Ledamot",
   },
   {
-    forename: "Omar",
-    surname: "Salloum",
-    nickname: "Xzibit",
-    role: "Ledamot",
-  },
-  {
-    forename: "Emelie",
-    surname: "Sandberg",
-    nickname: "Lille Skutt",
-    role: "Ledamot",
-  },
-  {
-    forename: "Liam",
-    surname: "Pettersson",
-    nickname: "Herden",
-    role: "Ledamot",
-  },
-  {
-    forename: "Rafaat",
-    surname: "Atia",
-    nickname: "Hök",
-    role: "Suppleant",
-  },
-  {
-    forename: "Sixten",
-    surname: "Elsner",
-    nickname: "Mr. Cool",
+    forename: "Johan",
+    surname: "Sandred",
+    nickname: "Nisse",
     role: "Suppleant",
   },
 ];
 export default async function Styrelse() {
-
-
   styrelse.sort((a, b) => {
     const roles = [
       "Ordförande",
